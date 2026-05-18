@@ -89,4 +89,4 @@
 
 ## 🔗 Ссылка на ноутбук с кодом
 
-[📓 Открыть ноутбук на GitHub]([https://github.com/ТУТ_ТВОЙ_ЛОГИН/vkr_project_target_company/blob/main/vkr_project_target_company.ipynb](https://github.com/Elena-Kazakova-analyst/bank_client_target_response_prediction/blob/main/bank_client_target_response_prediction.ipynb)
+[https://github.com/Elena-Kazakova-analyst/bank_client_target_response_prediction/blob/main/bank_client_target_response_prediction.ipynb]
